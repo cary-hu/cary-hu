@@ -1,4 +1,4 @@
-<pre align="center">
+<pre align="center" style="background-color: unset;">
 
      ,gggg,             ,ggg,  ,ggggggggggg,    ,ggg,         gg 
    ,88"""Y8b,          dP""8I dP"""88""""""Y8, dP""Y8a        88 
