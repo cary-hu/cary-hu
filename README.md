@@ -18,12 +18,9 @@ Y8,          dP"  ,8P      Y8      88      `8i      Y8b,___,d888
                                                         "Y888P"  
 
 </pre>
-<p align="center">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=cary-hu&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" />
-</p>
-<p align="center">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cary-hu&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cary-hu&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cary-hu&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 <p align="center">
   <samp>
