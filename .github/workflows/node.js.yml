@@ -38,6 +38,7 @@ jobs:
       - name: 生成 README.md
         run: npm run build --if-present
       - name: 推送新 README.md
-        uses: mikeal/publish-to-github-action@main
+        uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.PUSHTOKEN }}
+          BRANCH_NAME: 'main'
