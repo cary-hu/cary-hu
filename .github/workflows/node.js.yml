@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 设置时区
+      - name: Setup Timezone
         uses: szenius/set-timezone@v1.0
         with:
           timezoneLinux: 'Asia/Shanghai'
