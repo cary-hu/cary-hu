@@ -1,0 +1,26 @@
+{
+  "name": "cary-hu",
+  "version": "1.0.0",
+  "description": "Cary is Awesome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cary-hu/cary-hu.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "cary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cary-hu/cary-hu/issues"
+  },
+  "homepage": "https://github.com/cary-hu/cary-hu#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dayjs": "^1.11.5"
+  }
+}
