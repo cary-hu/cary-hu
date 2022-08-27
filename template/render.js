@@ -34,11 +34,8 @@ Hi, I'm cary, A ordinary developer in GrapeCity Xi'an.
 ${renderWeather(weather)}
 
 ${renderSkills()}
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cary-hu&show_icons=true&locale=en&layout=compact" alt="cary-hu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cary-hu&show_icons=true&locale=en" alt="cary-hu" /></p>
 <p>
+  <h3>Leetcode</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cary-hu&" alt="cary-hu" />
 </p>
 <p align="center">
