@@ -38,6 +38,8 @@ Today's sun will rise at 06:13 and set at 19:17. On a new day, do your best!
     <h3>FrontEnd Skills</h3>
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
+      </a>,<a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
       </a>,<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
       </a>,<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -86,6 +88,6 @@ Today's sun will rise at 06:13 and set at 19:17. On a new day, do your best!
 </p>
 <p align="center">
 <samp>
-  Last Update in 2022-08-27 16:00
+  Last Update in 2022-08-27 16:02
 </samp>
 </p>
