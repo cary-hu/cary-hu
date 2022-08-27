@@ -18,14 +18,19 @@ Y8,          dP"  ,8P      Y8      88      `8i      Y8b,___,d888
                                                         "Y888P"  
 
 </pre>
-Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">, 这篇README最后更新时间为: 2022年08月27日 06时37分
+Hi, I'm cary, A ordinary developer in GrapeCity Xi'an.
 
-今日天气：多云 最高气温 24, 最低气温17° 多云 陕西省发布暴雨蓝色预警。
+Today's sun will rise at 06:13 and set at 19:17. On a new day, do your best!
 
 <p align="center">
 <samp>
   <a href="https://cary.zhongting.icu">me</a> .
   <a href="https://docs.zhongting.icu">blog</a> .
   <a href="https://github.com/sponsors/cary-hu">sponsor</a>
+</samp>
+</p>
+<p align="center">
+<samp>
+  Last Update in 2022-08-27 15:25
 </samp>
 </p>
