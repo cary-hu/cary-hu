@@ -32,15 +32,22 @@ const footer = `<p align="center">
   <a href="https://github.com/sponsors/cary-hu">sponsor</a>
 </samp>
 </p>`
+const updateDate = `<p align="center">
+<samp>
+  Last Update in ${dayjs().format('YYYY年MM月DD日 HH时mm分')}
+</samp>
+</p>
+`
 const outputPath = path.join(__dirname, '../README.md');
 const render = (weather) => {
 
   const content = `${header}
-Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">, 这篇README最后更新时间为: ${dayjs().format('YYYY年MM月DD日 HH时mm分')}
+Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
 
 ${renderWeather(weather)}
 
-${footer}`
+${footer}
+${updateDate}`
   fs.writeFileSync(outputPath, content);
 }
 
