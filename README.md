@@ -73,11 +73,8 @@ Today's sun will rise at 06:13 and set at 19:17. On a new day, do your best!
       </a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cary-hu&show_icons=true&locale=en&layout=compact" alt="cary-hu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cary-hu&show_icons=true&locale=en" alt="cary-hu" /></p>
 <p>
+  <h3>Leetcode</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cary-hu&" alt="cary-hu" />
 </p>
 <p align="center">
@@ -89,6 +86,6 @@ Today's sun will rise at 06:13 and set at 19:17. On a new day, do your best!
 </p>
 <p align="center">
 <samp>
-  Last Update in 2022-08-27 15:58
+  Last Update in 2022-08-27 16:00
 </samp>
 </p>
