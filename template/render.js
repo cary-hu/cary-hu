@@ -24,30 +24,26 @@ Y8,          dP"  ,8P      Y8      88      \`8i      Y8b,___,d888
                                                         "Y888P"  
 
 </pre>`;
+const outputPath = path.join(__dirname, '../README.md');
+const render = (weather) => {
 
-const footer = `<p align="center">
+  const content = `${header}
+Hi, I'm cary, A ordinary developer in GrapeCity Xi'an.
+
+${renderWeather(weather)}
+
+<p align="center">
 <samp>
   <a href="https://cary.zhongting.icu">me</a> .
   <a href="https://docs.zhongting.icu">blog</a> .
   <a href="https://github.com/sponsors/cary-hu">sponsor</a>
 </samp>
-</p>`
-const updateDate = `<p align="center">
-<samp>
-  Last Update in ${dayjs().format('YYYY年MM月DD日 HH时mm分')}
-</samp>
 </p>
-`
-const outputPath = path.join(__dirname, '../README.md');
-const render = (weather) => {
-
-  const content = `${header}
-Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
-
-${renderWeather(weather)}
-
-${footer}
-${updateDate}`
+<p align="center">
+<samp>
+  Last Update in ${dayjs().format('YYYY-MM-DD HH:mm')}
+</samp>
+</p>`
   fs.writeFileSync(outputPath, content);
 }
 
