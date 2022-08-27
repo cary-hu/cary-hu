@@ -38,6 +38,7 @@ ${renderSkills()}
   <h3>Leetcode</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cary-hu&" alt="cary-hu" />
 </p>
+------------
 <p align="center">
 <samp>
   <a href="https://cary.zhongting.icu">me</a> .

@@ -1,99 +1,135 @@
 const devOpsTools = [
     {
-        title: "azure",
+        title: "Azure",
+        color: "0078D7",
+        icon: "azuredevops",
         href: "https://azure.microsoft.com/en-in/",
-        src: "https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg",
     },
     {
-        title: "docker",
+        title: "Cocker",
+        color: "2496ED",
+        icon: "docker",
         href: "https://www.docker.com/",
-        src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
     },
     {
-        title: "jenkins",
+        title: "TeamCity",
+        color: "000000",
+        icon: "teamcity",
+        href: "https://www.jetbrains.com/teamcity/",
+    },
+    {
+        title: "Jenkins",
+        color: "D24939",
+        icon: "jenkins",
         href: "https://www.jenkins.io",
-        src: "https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg",
     },
     {
-        title: "linux",
+        title: "Linux",
+        color: "FCC624",
+        icon: "linux",
         href: "https://www.linux.org/",
-        src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg",
     },
 ];
 const frontEnd = [
     {
-        title: "babel",
-        href: "https://babeljs.io/",
-        src: "https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg",
-    },
-    {
-        title: "webpack",
-        href: "https://webpack.js.org",
-        src: "https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg",
-    },
-    {
-        title: "bootstrap",
-        href: "https://getbootstrap.com",
-        src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg",
-    },
-    {
-        title: "css3",
-        href: "https://www.w3schools.com/css/",
-        src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg",
-    },
-    {
-        title: "html5",
-        href: "https://www.w3.org/html/",
-        src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg",
-    },
-    {
-        title: "javascript",
+        title: "JavaScript",
+        color: "F7DF1E",
+        icon: "javascript",
         href: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-        src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
     },
     {
-        title: "typescript",
+        title: "TypeScript",
+        color: "3178C6",
+        icon: "typescript",
         href: "https://www.typescriptlang.org/",
-        src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
     },
     {
-        title: "vuejs",
+        title: "HTML5",
+        color: "E34F26",
+        icon: "html5",
+        href: "https://www.w3.org/html/",
+    },
+    {
+        title: "CSS3",
+        color: "1572B6",
+        icon: "css3",
+        href: "https://www.w3schools.com/css/",
+    },
+    {
+        title: "Less",
+        color: "1D365D",
+        icon: "less",
+        href: "https://lesscss.org/",
+    },
+    {
+        title: "VueJS",
+        color: "4FC08D",
+        icon: "vuedotjs",
         href: "https://vuejs.org/",
-        src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg",
+    },
+    {
+        title: "Bootstrap",
+        color: "7952B3",
+        icon: "bootstrap",
+        href: "https://getbootstrap.com",
+    },
+    {
+        title: "Babel",
+        color: "F9DC3E",
+        icon: "babel",
+        href: "https://babeljs.io/",
+    },
+    {
+        title: "WebPack",
+        color: "8DD6F9",
+        icon: "webpack",
+        href: "https://webpack.js.org",
     },
 ];
 const backEnd = [
     {
-        title: "nodejs",
-        href: "https://nodejs.org",
-        src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg",
-    },
-    {
-        title: "mysql",
-        href: "https://www.mysql.com/",
-        src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
-    },
-    {
-        title: "express",
-        href: "https://expressjs.com",
-        src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg",
-    },
-    {
-        title: "dotnet",
+        title: ".NET",
+        icon: "dotnet",
+        color: "512BD4",
         href: "https://dotnet.microsoft.com/",
-        src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg",
+    },
+    {
+        title: "SQL Server",
+        color: "CC2927",
+        icon: "microsoftsqlserver",
+        href: "https://www.microsoft.com/en-us/sql-server/",
+    },
+    {
+        title: "NodeJS",
+        color: "339933",
+        icon: "nodedotjs",
+        href: "https://nodejs.org",
+    },
+    {
+        title: "Express",
+        color: "000000",
+        icon: "express",
+        href: "https://expressjs.com",
+    },
+    {
+        title: "MySQL",
+        color: "4479A1",
+        icon: "mysql",
+        href: "https://www.mysql.com/",
     },
 ];
 const others = [
     {
-        title: "git",
+        title: "Git",
+        color: "F05032",
+        icon: "git",
         href: "https://git-scm.com/",
-        src: "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg",
     },
     {
-        title: "nginx",
+        title: "NGINX",
+        color: "009639",
+        icon: "nginx",
         href: "https://www.nginx.com",
-        src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg",
     },
 ];
 
@@ -110,9 +146,9 @@ const getDevOpsToolsDom = (title, data) => {
     <h3>${title}</h3>
     ${data.map(item => {
         return `<a href="${item.href}" target="_blank" rel="noreferrer">
-        <img src="${item.src}" alt="${item.title}" width="40" height="40" />
+        <img alt="${item.title}" src="https://img.shields.io/badge/-${item.title}-ffffff?style=flat-square&logo=${item.icon}&logoColor=${item.color}" />
       </a>`
-    })}
+    }).join("")}
 </p>`
 }
 
