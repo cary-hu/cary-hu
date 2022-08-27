@@ -50,7 +50,7 @@ ${renderSkills()}
 </p>
 <p align="center">
 <samp>
-  Last Update in ${dayjs().format('YYYY-MM-DD HH:mm')}
+  Last Update at ${dayjs().format('ddd, MMM D, YYYY HH:mm:ss')} GTM+8
 </samp>
 </p>`
   fs.writeFileSync(outputPath, content);

@@ -10,7 +10,6 @@ const requestUrl = `https://wis.qq.com/weather/common?source=${weatherRequestCon
 const axios = require("axios").default;
 
 const getWeather = async () => {
-    console.log(requestUrl)
     const res = await axios({
         method: "get",
         url: requestUrl
