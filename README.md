@@ -25,53 +25,59 @@ Today's sun will rise at 06:13 and set at 19:17. On a new day, do your best!
 <p>
     <h3>DevOps Tools</h3>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
-      </a>,<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-      </a>,<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
-      </a>,<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+        <img alt="Azure" src="https://img.shields.io/badge/-Azure-ffffff?style=flat-square&logo=azuredevops&logoColor=0078D7" />
+      </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img alt="Cocker" src="https://img.shields.io/badge/-Cocker-ffffff?style=flat-square&logo=docker&logoColor=2496ED" />
+      </a><a href="https://www.jetbrains.com/teamcity/" target="_blank" rel="noreferrer">
+        <img alt="TeamCity" src="https://img.shields.io/badge/-TeamCity-ffffff?style=flat-square&logo=teamcity&logoColor=000000" />
+      </a><a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+        <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-ffffff?style=flat-square&logo=jenkins&logoColor=D24939" />
+      </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img alt="Linux" src="https://img.shields.io/badge/-Linux-ffffff?style=flat-square&logo=linux&logoColor=FCC624" />
       </a>
 </p>
 <p>
     <h3>FrontEnd Skills</h3>
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
-      </a>,<a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
-      </a>,<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-      </a>,<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-      </a>,<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-      </a>,<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-      </a>,<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-      </a>,<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+      </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-ffffff?style=flat-square&logo=typescript&logoColor=3178C6" />
+      </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ffffff?style=flat-square&logo=html5&logoColor=E34F26" />
+      </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-ffffff?style=flat-square&logo=css3&logoColor=1572B6" />
+      </a><a href="https://lesscss.org/" target="_blank" rel="noreferrer">
+        <img alt="Less" src="https://img.shields.io/badge/-Less-ffffff?style=flat-square&logo=less&logoColor=1D365D" />
+      </a><a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-ffffff?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+      </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-ffffff?style=flat-square&logo=bootstrap&logoColor=7952B3" />
+      </a><a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+        <img alt="Babel" src="https://img.shields.io/badge/-Babel-ffffff?style=flat-square&logo=babel&logoColor=F9DC3E" />
+      </a><a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+        <img alt="WebPack" src="https://img.shields.io/badge/-WebPack-ffffff?style=flat-square&logo=webpack&logoColor=8DD6F9" />
       </a>
 </p>
 <p>
     <h3>BackEnd Skills</h3>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-      </a>,<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-      </a>,<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-      </a>,<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+        <img alt=".NET" src="https://img.shields.io/badge/-.NET-ffffff?style=flat-square&logo=dotnet&logoColor=512BD4" />
+      </a><a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
+        <img alt="SQL Server" src="https://img.shields.io/badge/-SQL Server-ffffff?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
+      </a><a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-ffffff?style=flat-square&logo=nodedotjs&logoColor=339933" />
+      </a><a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img alt="Express" src="https://img.shields.io/badge/-Express-ffffff?style=flat-square&logo=express&logoColor=000000" />
+      </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-ffffff?style=flat-square&logo=mysql&logoColor=4479A1" />
       </a>
 </p>
 <p>
     <h3>Others</h3>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-      </a>,<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
+        <img alt="Git" src="https://img.shields.io/badge/-Git-ffffff?style=flat-square&logo=git&logoColor=F05032" />
+      </a><a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+        <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-ffffff?style=flat-square&logo=nginx&logoColor=009639" />
       </a>
 </p>
 
@@ -79,6 +85,7 @@ Today's sun will rise at 06:13 and set at 19:17. On a new day, do your best!
   <h3>Leetcode</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cary-hu&" alt="cary-hu" />
 </p>
+------------
 <p align="center">
 <samp>
   <a href="https://cary.zhongting.icu">me</a> .
@@ -88,6 +95,6 @@ Today's sun will rise at 06:13 and set at 19:17. On a new day, do your best!
 </p>
 <p align="center">
 <samp>
-  Last Update in 2022-08-27 16:02
+  Last Update in 2022-08-27 17:38
 </samp>
 </p>
