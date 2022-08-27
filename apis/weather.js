@@ -1,5 +1,5 @@
 const weatherRequestConfig = {
-    type: ["observe", "alarm", "forecast_24h"],
+    type: ["observe", "alarm", "forecast_24h", "rise"],
     source: "pc",
     province: "陕西省",
     city: "西安市"
@@ -19,7 +19,8 @@ const getWeather = async () => {
     const alarm = weatherData.alarm[0];
     const observe = weatherData.observe;
     const forecast = weatherData.forecast_24h[1];
-    return { alarm, observe, forecast };
+    const rise = weatherData.rise[0];
+    return { alarm, observe, forecast, rise };
 }
 
 module.exports = getWeather;
