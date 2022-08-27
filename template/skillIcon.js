@@ -27,6 +27,11 @@ const frontEnd = [
         src: "https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg",
     },
     {
+        title: "webpack",
+        href: "https://webpack.js.org",
+        src: "https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg",
+    },
+    {
         title: "bootstrap",
         href: "https://getbootstrap.com",
         src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg",
