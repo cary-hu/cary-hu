@@ -3,6 +3,7 @@ const path = require('path');
 const dayjs = require("dayjs");
 
 const renderWeather = require("./weather");
+const renderSkills = require('./skillIcon');
 
 const header = `<pre align="center" style="background-color: unset;">
 
@@ -32,6 +33,14 @@ Hi, I'm cary, A ordinary developer in GrapeCity Xi'an.
 
 ${renderWeather(weather)}
 
+${renderSkills()}
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cary-hu&show_icons=true&locale=en&layout=compact" alt="cary-hu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cary-hu&show_icons=true&locale=en" alt="cary-hu" /></p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cary-hu&" alt="cary-hu" />
+</p>
 <p align="center">
 <samp>
   <a href="https://cary.zhongting.icu">me</a> .
