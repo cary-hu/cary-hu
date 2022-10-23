@@ -20,7 +20,7 @@ Y8,          dP"  ,8P      Y8      88      `8i      Y8b,___,d888
 </pre>
 Hi, I'm cary, A ordinary developer in GrapeCity Xi'an.
 
-Today's sun will rise at 06:56 and set at 18:01. On a new day, Do your best!
+Today's sun will rise at 06:56 and set at 18:00. On a new day, Do your best!
 
 <p>
     <h3>DevOps Tools</h3>
@@ -97,6 +97,6 @@ Today's sun will rise at 06:56 and set at 18:01. On a new day, Do your best!
 </p>
 <p align="center">
 <samp>
-  Last Update at Sun, Oct 23, 2022 06:43:38 GTM+8
+  Last Update at Mon, Oct 24, 2022 06:43:46 GTM+8
 </samp>
 </p>
