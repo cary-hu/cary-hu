@@ -18,7 +18,7 @@ Y8,          dP"  ,8P      Y8      88      `8i      Y8b,___,d888
                                                         "Y888P"  
 
 </pre>
-Hi, I'm cary, A ordinary developer in GrapeCity Xi'an.
+Hi, I'm cary, An ordinary developer in GrapeCity Xi'an.
 
 Today's sun will rise at 07:04 and set at 17:50. On a new day, Do your best!
 
@@ -97,6 +97,6 @@ Today's sun will rise at 07:04 and set at 17:50. On a new day, Do your best!
 </p>
 <p align="center">
 <samp>
-  Last Update at Wed, Nov 2, 2022 06:44:48 GTM+8
+  Last Update at Wed, Nov 2, 2022 08:45:05 GTM+8
 </samp>
 </p>
