@@ -29,7 +29,7 @@ const outputPath = path.join(__dirname, '../README.md');
 const render = (weather) => {
 
   const content = `${header}
-Hi, I'm cary, A ordinary developer in GrapeCity Xi'an.
+Hi, I'm cary, An ordinary developer in GrapeCity Xi'an.
 
 ${renderWeather(weather)}
 
